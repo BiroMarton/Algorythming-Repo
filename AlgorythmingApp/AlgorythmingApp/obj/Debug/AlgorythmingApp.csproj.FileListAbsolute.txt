@@ -1,0 +1,7 @@
+C:\VSProjects\AlgorythmingApp\AlgorythmingApp\bin\Debug\AlgorythmingApp.exe.config
+C:\VSProjects\AlgorythmingApp\AlgorythmingApp\bin\Debug\AlgorythmingApp.exe
+C:\VSProjects\AlgorythmingApp\AlgorythmingApp\bin\Debug\AlgorythmingApp.pdb
+C:\VSProjects\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.csprojResolveAssemblyReference.cache
+C:\VSProjects\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.csproj.CoreCompileInputs.cache
+C:\VSProjects\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.exe
+C:\VSProjects\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.pdb
