@@ -5,3 +5,10 @@ C:\VSProjects\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.csprojRe
 C:\VSProjects\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.csproj.CoreCompileInputs.cache
 C:\VSProjects\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.exe
 C:\VSProjects\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.pdb
+D:\Project\Algorythming-Repo\AlgorythmingApp\AlgorythmingApp\bin\Debug\AlgorythmingApp.exe.config
+D:\Project\Algorythming-Repo\AlgorythmingApp\AlgorythmingApp\bin\Debug\AlgorythmingApp.exe
+D:\Project\Algorythming-Repo\AlgorythmingApp\AlgorythmingApp\bin\Debug\AlgorythmingApp.pdb
+D:\Project\Algorythming-Repo\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.csprojResolveAssemblyReference.cache
+D:\Project\Algorythming-Repo\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.csproj.CoreCompileInputs.cache
+D:\Project\Algorythming-Repo\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.exe
+D:\Project\Algorythming-Repo\AlgorythmingApp\AlgorythmingApp\obj\Debug\AlgorythmingApp.pdb
